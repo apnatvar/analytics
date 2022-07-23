@@ -14,4 +14,5 @@ Contains code written in Python. It connects to the database in SQL with pyODBC 
 Pandas functions were then used to present some of the stats.
 Data is diplayed in the command line as a well formatted table with the tabulate library. Sample screenshots are also included in the dataset.
 
-#### 
+#### All Queries
+Contains all the SQL queries to clean and ready the data for further analysis and visualisations.
