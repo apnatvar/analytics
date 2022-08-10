@@ -6,3 +6,6 @@ A stock dashboard to represent the S&P data in an interactive manner. Data is pr
 
 ### Cyclistic 
 This was a Case Study for a fictionaly company named Cyclistic as part of the Google Data Analytics course offered on Coursera. I majorly used Python and SQL for cleaning and statistical analysis. Tableau and Excel were used to draw up charts and format data in a tabular format.
+
+### Dublinbnb
+This is an exploratory visualisation excercise in R. THe aim was to visualise as much data as possible using various plots and techniques to fully explore libraries like ggplot2, mapview, dplyr etc. The script also serves as a reference for future scripting in R to visualise histograms, bar plots, and pie charts etc.
